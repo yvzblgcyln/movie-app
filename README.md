@@ -1,3 +1,3 @@
 # movie-app
 
-demo: crabby-grade.surge.sh
+demo: https://crabby-grade.surge.sh/
