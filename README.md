@@ -2,7 +2,7 @@
 
 demo: https://crabby-grade.surge.sh/
 
-# what i use in that project:
+# what i use in this project:
 ## -axios
 ## -OMDB APİ
 ## -localStorage
